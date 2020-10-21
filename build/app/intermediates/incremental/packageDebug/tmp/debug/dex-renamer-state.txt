@@ -1,4 +1,4 @@
-#Tue Oct 20 17:59:23 IST 2020
+#Wed Oct 21 10:11:22 IST 2020
 base.0=/home/ms-06/Documents/KARAN/Flutter/shop_app_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
