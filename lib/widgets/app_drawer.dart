@@ -41,6 +41,7 @@ class AppDrawer extends StatelessWidget {
             onTap: () => Navigator.of(context)
                 .pushReplacementNamed(UserProductsScreen.routeName),
           ),
+          Divider(),
         ],
       ),
     );
